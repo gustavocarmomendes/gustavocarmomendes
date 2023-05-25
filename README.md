@@ -20,7 +20,7 @@
 
 ***Apenas um Nerd curioso e apaixonado por Tecnologia!***
 
-### Cursos que eu fiz:
+### Cursos que eu(estou) fiz(fazendo):
 - [Desenvolvimento Web Completo 2023 - 20 cursos + 20 projetos](https://www.udemy.com/course/web-completo/)<br/>
 - [JavaScript - Curso COMPLETO com 6 Projetos REAIS](https://www.udemy.com/course/javascript-curso-completo/)<br/>
 - [Algoritmos](https://www.cursoemvideo.com/curso/curso-de-algoritmo/)<br/>
